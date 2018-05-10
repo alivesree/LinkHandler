@@ -1,0 +1,130 @@
+http://net10
+Good Links------
+In http://net10
+	http://net10/a1/
+	http://net10/aspnet_client/
+	http://net10/aspnet27/
+	http://net10/emp.tpl.txt
+	http://net10/emptpl.txt
+	http://net10/first/
+	http://net10/ravisan/
+	http://net10/shahi/
+	http://net10/tutu/
+	http://net10/WebApplication1/
+In http://net10/a1/
+	http://net10/a1/a1/bin/
+	http://net10/a1/a1/dartboard/
+	http://net10/a1/a1/literal/
+	http://net10/a1/a1/pageevents/
+	http://net10/a1/a1/test.htm
+	http://net10/a1/a1/trace/
+	http://net10/a1/a1/WebApplication1/
+	http://net10/a1/a1/WebApplication2/
+In http://net10/aspnet27/
+	http://net10/aspnet27/aspnet27/cook1/
+	http://net10/aspnet27/aspnet27/WebApplication1/
+In http://net10/first/
+	http://net10/first/first/bin/
+In http://net10/ravisan/
+	http://net10/ravisan/ravisan/sort_dg/
+In http://net10/shahi/
+	http://net10/shahi/shahi/a1/
+In http://net10/tutu/
+	http://net10/tutu/tutu/paging/
+	http://net10/tutu/tutu/paging1/
+In http://net10/WebApplication1/
+	http://net10/WebApplication1/WebApplication1/bin/
+Broken Links------
+In http://net10/a1/
+	http://net10/a1/a1/a1.vbproj
+	http://net10/a1/a1/a1.vbproj.webinfo
+	http://net10/a1/a1/a1.vsdisco
+	http://net10/a1/a1/AssemblyInfo.vb
+	http://net10/a1/a1/empprop2.vb
+	http://net10/a1/a1/Global.asax
+	http://net10/a1/a1/Global.asax.resx
+	http://net10/a1/a1/Global.asax.vb
+	http://net10/a1/a1/Styles.css
+	http://net10/a1/a1/testing-net.aspx
+	http://net10/a1/a1/Web.config
+	http://net10/a1/a1/WebForm1.aspx
+	http://net10/a1/a1/WebForm1.aspx.resx
+	http://net10/a1/a1/WebForm1.aspx.vb
+In http://net10/a1/a1/bin/
+	http://net10/a1/a1/bin/' + escape(urlresult) + '
+	http://net10/a1/a1/bin/javascript:history.back(1)
+	http://www.microsoft.com/ContentRedirect.asp?prd=iis&sbp=&pver=5.0&pid=&ID=404&cat=web&os=&over=&hrd=&Opt1=&Opt2=&Opt3=
+In http://net10/a1/a1/dartboard/
+	http://net10/a1/a1/dartboard/' + escape(urlresult) + '
+	http://net10/a1/a1/dartboard/javascript:history.back(1)
+In http://net10/a1/a1/literal/
+	http://net10/a1/a1/literal/' + escape(urlresult) + '
+	http://net10/a1/a1/literal/javascript:history.back(1)
+In http://net10/a1/a1/pageevents/
+	http://net10/a1/a1/pageevents/' + escape(urlresult) + '
+	http://net10/a1/a1/pageevents/javascript:history.back(1)
+In http://net10/a1/a1/test.htm
+	http://net10/a1/a1/' + escape(urlresult) + '
+	http://net10/a1/a1/javascript:history.back(1)
+In http://net10/a1/a1/trace/
+	http://net10/a1/a1/trace/' + escape(urlresult) + '
+	http://net10/a1/a1/trace/javascript:history.back(1)
+In http://net10/a1/a1/WebApplication1/
+	http://net10/a1/a1/WebApplication1/' + escape(urlresult) + '
+	http://net10/a1/a1/WebApplication1/javascript:history.back(1)
+In http://net10/a1/a1/WebApplication2/
+	http://net10/a1/a1/WebApplication2/' + escape(urlresult) + '
+	http://net10/a1/a1/WebApplication2/javascript:history.back(1)
+In http://net10/aspnet27/aspnet27/cook1/
+	http://net10/aspnet27/aspnet27/cook1/' + escape(urlresult) + '
+	http://net10/aspnet27/aspnet27/cook1/javascript:history.back(1)
+In http://net10/aspnet27/aspnet27/WebApplication1/
+	http://net10/aspnet27/aspnet27/WebApplication1/' + escape(urlresult) + '
+	http://net10/aspnet27/aspnet27/WebApplication1/javascript:history.back(1)
+In http://net10/first/
+	http://net10/first/first/AssemblyInfo.vb
+	http://net10/first/first/first.vbproj
+	http://net10/first/first/first.vbproj.webinfo
+	http://net10/first/first/first.vsdisco
+	http://net10/first/first/Global.asax
+	http://net10/first/first/Global.asax.resx
+	http://net10/first/first/Global.asax.vb
+	http://net10/first/first/Styles.css
+	http://net10/first/first/Web.config
+	http://net10/first/first/WebForm1.aspx
+	http://net10/first/first/WebForm1.aspx.resx
+	http://net10/first/first/WebForm1.aspx.vb
+	http://net10/first/first/WebForm2.aspx
+	http://net10/first/first/WebForm2.aspx.resx
+	http://net10/first/first/WebForm2.aspx.vb
+In http://net10/first/first/bin/
+	http://net10/first/first/bin/' + escape(urlresult) + '
+	http://net10/first/first/bin/javascript:history.back(1)
+In http://net10/ravisan/ravisan/sort_dg/
+	http://net10/ravisan/ravisan/sort_dg/' + escape(urlresult) + '
+	http://net10/ravisan/ravisan/sort_dg/javascript:history.back(1)
+In http://net10/shahi/shahi/a1/
+	http://net10/shahi/shahi/a1/' + escape(urlresult) + '
+	http://net10/shahi/shahi/a1/javascript:history.back(1)
+In http://net10/tutu/tutu/paging/
+	http://net10/tutu/tutu/paging/' + escape(urlresult) + '
+	http://net10/tutu/tutu/paging/javascript:history.back(1)
+In http://net10/tutu/tutu/paging1/
+	http://net10/tutu/tutu/paging1/' + escape(urlresult) + '
+	http://net10/tutu/tutu/paging1/javascript:history.back(1)
+In http://net10/WebApplication1/
+	http://net10/WebApplication1/WebApplication1/AssemblyInfo.vb
+	http://net10/WebApplication1/WebApplication1/Global.asax
+	http://net10/WebApplication1/WebApplication1/Global.asax.resx
+	http://net10/WebApplication1/WebApplication1/Global.asax.vb
+	http://net10/WebApplication1/WebApplication1/Styles.css
+	http://net10/WebApplication1/WebApplication1/Web.config
+	http://net10/WebApplication1/WebApplication1/WebApplication1.vbproj
+	http://net10/WebApplication1/WebApplication1/WebApplication1.vbproj.webinfo
+	http://net10/WebApplication1/WebApplication1/WebApplication1.vsdisco
+	http://net10/WebApplication1/WebApplication1/WebForm1.aspx
+	http://net10/WebApplication1/WebApplication1/WebForm1.aspx.resx
+	http://net10/WebApplication1/WebApplication1/WebForm1.aspx.vb
+In http://net10/WebApplication1/WebApplication1/bin/
+	http://net10/WebApplication1/WebApplication1/bin/' + escape(urlresult) + '
+	http://net10/WebApplication1/WebApplication1/bin/javascript:history.back(1)

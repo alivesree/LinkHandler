@@ -1,0 +1,60 @@
+http://net36
+Good Links------
+In http://net36
+	http://net36/10/
+	http://net36/aspnet_client/
+	http://net36/siri/
+	http://net36/venki2/
+In http://net36/10/
+	http://net36/10/10/WebApplication1/
+	http://net36/10/10/WebApplication2/
+	http://net36/10/10/WebApplication3/
+	http://net36/10/10/WebApplication4/
+	http://net36/10/10/WebApplication5/
+In http://net36/siri/
+	http://net36/siri/siri/WebApplication1/
+	http://net36/siri/siri/webapplication2/
+	http://net36/siri/siri/WebApplication3/
+	http://net36/siri/siri/WebApplication4/
+	http://net36/siri/siri/WebApplication5/
+	http://net36/siri/siri/WebApplication6/
+In http://net36/venki2/
+	http://net36/venki2/venki2/WebApplication1/
+Broken Links------
+In http://net36/10/10/WebApplication1/
+	http://net36/10/10/WebApplication1/' + escape(urlresult) + '
+	http://net36/10/10/WebApplication1/javascript:history.back(1)
+	http://www.microsoft.com/ContentRedirect.asp?prd=iis&sbp=&pver=5.0&pid=&ID=404&cat=web&os=&over=&hrd=&Opt1=&Opt2=&Opt3=
+In http://net36/10/10/WebApplication2/
+	http://net36/10/10/WebApplication2/' + escape(urlresult) + '
+	http://net36/10/10/WebApplication2/javascript:history.back(1)
+In http://net36/10/10/WebApplication3/
+	http://net36/10/10/WebApplication3/' + escape(urlresult) + '
+	http://net36/10/10/WebApplication3/javascript:history.back(1)
+In http://net36/10/10/WebApplication4/
+	http://net36/10/10/WebApplication4/' + escape(urlresult) + '
+	http://net36/10/10/WebApplication4/javascript:history.back(1)
+In http://net36/10/10/WebApplication5/
+	http://net36/10/10/WebApplication5/' + escape(urlresult) + '
+	http://net36/10/10/WebApplication5/javascript:history.back(1)
+In http://net36/siri/siri/WebApplication1/
+	http://net36/siri/siri/WebApplication1/' + escape(urlresult) + '
+	http://net36/siri/siri/WebApplication1/javascript:history.back(1)
+In http://net36/siri/siri/webapplication2/
+	http://net36/siri/siri/webapplication2/' + escape(urlresult) + '
+	http://net36/siri/siri/webapplication2/javascript:history.back(1)
+In http://net36/siri/siri/WebApplication3/
+	http://net36/siri/siri/WebApplication3/' + escape(urlresult) + '
+	http://net36/siri/siri/WebApplication3/javascript:history.back(1)
+In http://net36/siri/siri/WebApplication4/
+	http://net36/siri/siri/WebApplication4/' + escape(urlresult) + '
+	http://net36/siri/siri/WebApplication4/javascript:history.back(1)
+In http://net36/siri/siri/WebApplication5/
+	http://net36/siri/siri/WebApplication5/' + escape(urlresult) + '
+	http://net36/siri/siri/WebApplication5/javascript:history.back(1)
+In http://net36/siri/siri/WebApplication6/
+	http://net36/siri/siri/WebApplication6/' + escape(urlresult) + '
+	http://net36/siri/siri/WebApplication6/javascript:history.back(1)
+In http://net36/venki2/venki2/WebApplication1/
+	http://net36/venki2/venki2/WebApplication1/' + escape(urlresult) + '
+	http://net36/venki2/venki2/WebApplication1/javascript:history.back(1)
